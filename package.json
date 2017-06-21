@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Supasate Choochaisri <supasate@fb.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
   "dependencies": {
     "next": "^2.4.4",
     "react": "^15.6.1",
